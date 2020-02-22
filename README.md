@@ -39,4 +39,6 @@ Finally, add to these elements an attribute ```piclive-tag``` to link the input 
 
 Normally, if you put an image URL in the textfield, when you exit focus on it the image appear.
 
+If there is any problem with the module, feel free to contact me at thom32600@hotmail.fr.
+
 
