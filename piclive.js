@@ -4,6 +4,7 @@
  *
  * @author Thomas Gouveia
  * @version 1.0
+ * @see https://github.com/N4rkos/piclive-js
  */
 class PicLiveViewer {
 
@@ -48,7 +49,7 @@ class PicLiveViewer {
 
     /**
      * Cherche dans le document tous les piclive-input et tous les piclive-viewer.
-     * À partir de ces résultats, un objet de type PicLiveViewer est créer et son constructeur
+     * À partir de ces résultats, un objet de type PicLiveViewer est créé et son constructeur
      * s'occupe de lier entre eux les différents inputs/viewers.
      */
     static init() {
